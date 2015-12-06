@@ -1,5 +1,4 @@
 <?php
-set_magic_quotes_runtime(false);
 /*
 An XML-RPC implementation by Keith Devens, version 2.5f.
 http://www.keithdevens.com/software/xmlrpc/
